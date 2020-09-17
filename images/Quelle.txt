@@ -1,0 +1,1 @@
+Lazy_Loading.gif: https://www.npmjs.com/package/angular-responsive-carousel
