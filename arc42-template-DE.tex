@@ -120,7 +120,7 @@ der Einarbeitung in bib-now sowie dem Verständnis der Konzepte.
 \vspace{2cm}
 
 %Inhaltskonzept (TODO)
-Bei bib-now handelt es sich um ein Schülerforum für das bib international College Paderborn. Die technische Umsetzung basiert auf  einer Single-Page-Webanwendung mit einer RealTime-Datenban deren einzelnde Komponenten über einen Router verlinkt sind: Die Navigation besteht aus drei Komponenten: LoginPageComponent, DashboardPageComponent und SinglePageComponent. Jede dieser Komponenten besitzt ihre eigenen Backend-Komponenten. Die LoginPage + LoginFormComponent & SignUpFormComponent. DashboardPageComponent + SideNavComponent & ForumComponent & PostComponent und kann noch durch weitere Elemente ergänzt werden. SettingsPageComponent + SideNavComponent & SettingsFormComponent. 
+Bei bib-now handelt es sich um ein Schülerforum für das bib international College Paderborn. Die technische Umsetzung basiert auf  einer Single-Page-Webanwendung mit einer RealTime-Datenban deren einzelnde Komponenten über einen Router verlinkt sind: Die Navigation besteht aus drei Komponenten: LoginPageComponent, DashboardPageComponent und der SettingsPageComponent. Jede dieser Komponenten besitzt ihre eigenen Backend-Komponenten. Die LoginPage greift auf die LoginFormComponent und SignUpFormComponent zurück. Die DashboardPageComponent greift auf  SideNavComponent, ForumComponent, PostComponent zurück. Außerdem könnnen hier später weitere Elemente ergänzt werden. SettingsPageComponent beinhaltet die SideNavComponent und SettingsFormComponent. 
 
 \pagebreak
 
@@ -131,8 +131,8 @@ Bei bib-now handelt es sich um ein Schülerforum für das bib international Coll
 \vspace{2cm}
 
 %Inhaltskonzept (TODO)
-Beim Betreten der Seite wird der User zunächst aufgefordert sich einzuloggen. Sollte er sich noch nicht registriert haben hat er die Möglichkeit in das Registrierungsforumlar zu switchen und sich dort zu registrieren. War die Registrierung oder das einloggen erfolgreich, wird der User auf die DashboardPage weitergeleitet. Dort werden ihm Posts angezeigt und er hat die Möglichkeit über ein Formular einen eigenen Post zu verfassen. Außerdem kann er über das Navigationsmenu zu der SettingsPage zu wechseln
-
+Beim Betreten der Seite wird der User zunächst aufgefordert sich einzuloggen. Sollte er sich noch nicht registriert haben hat er die Möglichkeit in das Registrierungsforumlar zu switchen und sich dort zu registrieren. War die Registrierung oder das einloggen erfolgreich, wird der User auf die DashboardPage weitergeleitet. Dort werden ihm Posts angezeigt und er hat die Möglichkeit über ein Formular einen eigenen Post zu verfassen. Außerdem kann er über das Navigationsmenu zu der SettingsPage zu wechseln. Seine aktuelle Position wird durch eine Farbveränderung am jeweiligen punkt in der Navigatonsleiste erkenntlich.
+.
 \pagebreak
 
 Dazu gehören:

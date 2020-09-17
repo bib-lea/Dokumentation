@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.9.17)  17 SEP 2020 12:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.9.17)  17 SEP 2020 14:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -576,48 +576,7 @@ LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
 19.
 (/usr/share/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-! Misplaced alignment tab character &.
-l.123 ...ten. Die LoginPage + LoginFormComponent &
-                                                   SignUpFormComponent. Dash...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.123 ...shboardPageComponent + SideNavComponent &
-                                                   ForumComponent & PostComp...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.123 ...ent + SideNavComponent & ForumComponent &
-                                                   PostComponent und kann no...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.123 ...ettingsPageComponent + SideNavComponent &
-                                                   SettingsFormComponent.
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-[2]
+) [2]
 
 LaTeX Warning: File `konzepte/bibnow_Navigationskonzept.png' not found on input
  line 130.
@@ -785,15 +744,11 @@ Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1191.
 
 Package rerunfilecheck Info: File `arc42-template-DE.out' has not changed.
 (rerunfilecheck)             Checksum: 01BDA6B5312FD23331ADAC16CE3A1A0B;6797.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
  12272 strings out of 480478
- 180297 string characters out of 5905959
- 453706 words of memory out of 5000000
+ 180299 string characters out of 5905959
+ 453707 words of memory out of 5000000
  27857 multiletter control sequences out of 15000+600000
  599044 words of font info for 104 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -806,7 +761,7 @@ c/lm/lmcsc10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/s
 hare/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf-dist/fonts/ty
 pe1/public/lm/lmri10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmri12.pf
 b></usr/share/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on arc42-template-DE.pdf (21 pages, 488343 bytes).
+Output written on arc42-template-DE.pdf (21 pages, 488368 bytes).
 PDF statistics:
  405 PDF objects out of 1000 (max. 8388607)
  364 compressed objects within 4 object streams
