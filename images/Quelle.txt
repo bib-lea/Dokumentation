@@ -1,3 +1,5 @@
 Lazy_Loading.gif: https://www.npmjs.com/package/angular-responsive-carousel
 
 Schriftart: https://fonts.google.com/specimen/Montserrat
+
+Schema-generator (Schema_1.png): http://colormind.io/bootstrap/
