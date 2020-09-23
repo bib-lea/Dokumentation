@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.9.17)  23 SEP 2020 13:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.9.17)  23 SEP 2020 14:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -227,71 +227,70 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ))
 \tf@toc=\write3
  [1]
-File: images/arc42-logo.png Graphic file (type png)
-<use images/arc42-logo.png>
-Package pdftex.def Info: images/arc42-logo.png  used on input line 31.
-(pdftex.def)             Requested size: 192.71951pt x 96.35974pt.
- [1]
 (./bib-now-dokumentation.lof)
 \tf@lof=\write4
- [1] [2]
-<Konzepte/bibnow_Sitemap.png, id=26, 708.84825pt x 459.51675pt>
+ [2]
+File: images/arc42-logo.png Graphic file (type png)
+<use images/arc42-logo.png>
+Package pdftex.def Info: images/arc42-logo.png  used on input line 37.
+(pdftex.def)             Requested size: 192.71951pt x 96.35974pt.
+ [1] [1] [2]
+<Konzepte/bibnow_Sitemap.png, id=29, 708.84825pt x 459.51675pt>
 File: Konzepte/bibnow_Sitemap.png Graphic file (type png)
 <use Konzepte/bibnow_Sitemap.png>
-Package pdftex.def Info: Konzepte/bibnow_Sitemap.png  used on input line 75.
+Package pdftex.def Info: Konzepte/bibnow_Sitemap.png  used on input line 95.
 (pdftex.def)             Requested size: 400.0pt x 259.2979pt.
  [3 <./Konzepte/bibnow_Sitemap.png>]
-<Konzepte/bibnow_Navigationskonzept.png, id=30, 1101.11375pt x 1508.63625pt>
+<Konzepte/bibnow_Navigationskonzept.png, id=34, 1101.11375pt x 1508.63625pt>
 File: Konzepte/bibnow_Navigationskonzept.png Graphic file (type png)
 <use Konzepte/bibnow_Navigationskonzept.png>
 Package pdftex.def Info: Konzepte/bibnow_Navigationskonzept.png  used on input 
-line 89.
+line 109.
 (pdftex.def)             Requested size: 400.0pt x 548.0349pt.
-
-[4 <./Konzepte/bibnow_Navigationskonzept.png>] [5]
-<images/Schriftart_100.png, id=39, 263.48438pt x 57.21375pt>
+ [4 <./Konzepte/bibnow_Navigationskonzept.png>] [5]
+<images/Schriftart_100.png, id=42, 263.48438pt x 57.21375pt>
 File: images/Schriftart_100.png Graphic file (type png)
 <use images/Schriftart_100.png>
-Package pdftex.def Info: images/Schriftart_100.png  used on input line 108.
+Package pdftex.def Info: images/Schriftart_100.png  used on input line 128.
 (pdftex.def)             Requested size: 263.48372pt x 57.2136pt.
-<images/Schriftart_300.png, id=40, 263.48438pt x 54.9553pt>
+<images/Schriftart_300.png, id=43, 263.48438pt x 54.9553pt>
 File: images/Schriftart_300.png Graphic file (type png)
 <use images/Schriftart_300.png>
-Package pdftex.def Info: images/Schriftart_300.png  used on input line 112.
+Package pdftex.def Info: images/Schriftart_300.png  used on input line 132.
 (pdftex.def)             Requested size: 263.48372pt x 54.95515pt.
-<images/Schriftart_700.png, id=41, 263.48438pt x 53.44969pt>
+<images/Schriftart_700.png, id=44, 263.48438pt x 53.44969pt>
 File: images/Schriftart_700.png Graphic file (type png)
 <use images/Schriftart_700.png>
-Package pdftex.def Info: images/Schriftart_700.png  used on input line 116.
+Package pdftex.def Info: images/Schriftart_700.png  used on input line 136.
 (pdftex.def)             Requested size: 263.48372pt x 53.44954pt.
-<images/Schema_1.png, id=42, 930.47626pt x 230.36063pt>
+<images/Schema_1.png, id=45, 930.47626pt x 230.36063pt>
 File: images/Schema_1.png Graphic file (type png)
 <use images/Schema_1.png>
-Package pdftex.def Info: images/Schema_1.png  used on input line 132.
+Package pdftex.def Info: images/Schema_1.png  used on input line 152.
 (pdftex.def)             Requested size: 400.0pt x 99.02852pt.
  [6 <./images/Schriftart_100.PNG> <./images/Schriftart_300.PNG> <./images/Schri
 ftart_700.PNG> <./images/Schema_1.PNG>]
-Underfull \hbox (badness 10000) in paragraph at lines 149--151
+Underfull \hbox (badness 10000) in paragraph at lines 169--171
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 154--155
+Underfull \hbox (badness 10000) in paragraph at lines 174--175
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 154--155
+Underfull \hbox (badness 10000) in paragraph at lines 174--175
 
  []
 
 
-Overfull \hbox (29.68394pt too wide) in paragraph at lines 165--167
-\OT1/cmr/m/n/12 Der Source-Code zum Er-geb-nis l[]asst sich un-ter fol-gen-dem 
-Github Re-po-si-to-ry https://github.com/bib-
+Overfull \hbox (10.73543pt too wide) in paragraph at lines 197--199
+\OT1/cmr/m/n/12 Insgesamt l[]asst sich das durch wei-te-re Mo-du-le oder Sei-te
+n er-set-zen, wie an-de-re Foren-Oberthemen,
  []
 
-[7] (./bib-now-dokumentation.aux) ) 
+[7] [8] (./bib-now-dokumentation.aux) ) 
 Here is how much of TeX's memory you used:
  3183 strings out of 480478
  44077 string characters out of 5905959
@@ -299,17 +298,17 @@ Here is how much of TeX's memory you used:
  19169 multiletter control sequences out of 15000+600000
  542993 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,6n,31p,800b,208s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf-dist/fonts/enc/dvips/cm-su
-per/cm-super-ts1.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx
-12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/
-share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf-dist/fonts/type1/
-public/cm-super/sfrm1200.pfb>
-Output written on bib-now-dokumentation.pdf (10 pages, 366881 bytes).
+ 30i,6n,31p,800b,206s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf-dist/fonts/enc/dvips/c
+m-super/cm-super-ts1.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></
+usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf-dist/fonts/ty
+pe1/public/cm-super/sfrm1200.pfb>
+Output written on bib-now-dokumentation.pdf (12 pages, 368350 bytes).
 PDF statistics:
- 72 PDF objects out of 1000 (max. 8388607)
- 41 compressed objects within 1 object stream
+ 78 PDF objects out of 1000 (max. 8388607)
+ 45 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
