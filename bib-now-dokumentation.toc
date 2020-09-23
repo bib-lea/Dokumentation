@@ -1,11 +1,19 @@
 \babel@toc {ngerman}{}
-\contentsline {section}{\numberline {1}Abbildungsverzeichnis}{1}%
-\contentsline {section}{\numberline {2}Über bibnow}{1}%
-\contentsline {section}{\numberline {3}Aufgabenstellung}{1}%
-\contentsline {section}{\numberline {4}Konzepte}{1}%
-\contentsline {section}{\numberline {5}Vorplanung}{3}%
-\contentsline {section}{\numberline {6}Durchführung}{3}%
-\contentsline {section}{\numberline {7}Ergebnis}{3}%
-\contentsline {section}{\numberline {8}Fazit}{3}%
-\contentsline {section}{\numberline {9}Quellen}{3}%
-\contentsline {section}{\numberline {10}Literaturverzeichnis}{3}%
+\contentsline {section}{Abbildungsverzeichnis}{1}%
+\contentsline {section}{\numberline {1}Über bibnow}{2}%
+\contentsline {section}{\numberline {2}Aufgabenstellung}{2}%
+\contentsline {section}{\numberline {3}Konzepte}{3}%
+\contentsline {subsection}{\numberline {3.1}Inhaltskonzept}{3}%
+\contentsline {subsection}{\numberline {3.2}Navigationskonzept}{4}%
+\contentsline {subsection}{\numberline {3.3}Gestaltungskonzept}{6}%
+\contentsline {subsection}{\numberline {3.4}Zielgruppendefinition}{6}%
+\contentsline {section}{\numberline {4}Durchführung}{7}%
+\contentsline {subsection}{\numberline {4.1}Allgemeine Beschreibung zur Durchführung}{7}%
+\contentsline {subsection}{\numberline {4.2}Planung und Vorbereitung}{7}%
+\contentsline {subsubsection}{\numberline {4.2.1}Vor dem Projekt}{7}%
+\contentsline {subsubsection}{\numberline {4.2.2}Während des Projekts}{7}%
+\contentsline {section}{\numberline {5}Ergebnis}{7}%
+\contentsline {subsection}{\numberline {5.1}GitHub-Pfad}{7}%
+\contentsline {section}{\numberline {6}Fazit}{7}%
+\contentsline {section}{\numberline {7}Quellen}{7}%
+\contentsline {section}{\numberline {8}Literaturverzeichnis}{7}%
