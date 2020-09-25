@@ -1,83 +1,83 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.9.17)  23 SEP 2020 14:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.9.15)  25 SEP 2020 10:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **bib-now-dokumentation.tex
 (./bib-now-dokumentation.tex
 LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-06-03>
-(/usr/share/texmf-dist/tex/latex/base/article.cls
+L3 programming layer <2020-09-06>
+(c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
-(/usr/share/texmf-dist/tex/latex/base/size12.clo
+(c:/texlive/2020/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
-\c@part=\count167
-\c@section=\count168
-\c@subsection=\count169
-\c@subsubsection=\count170
-\c@paragraph=\count171
-\c@subparagraph=\count172
-\c@figure=\count173
-\c@table=\count174
+\c@part=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
 )
-(/usr/share/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2020/05/13 3.44 The Babel package
+(c:/texlive/2020/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2020/09/01 3.48 The Babel package
 
-(/usr/share/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2020/05/13 3.44 Babel common definitions
-\babel@savecnt=\count175
+(c:/texlive/2020/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2020/09/01 3.48 Babel common definitions
+\babel@savecnt=\count176
 \U@D=\dimen135
 \l@babelnohyphens=\language86
 
-(/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)
+(c:/texlive/2020/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
 )
-\bbl@dirlevel=\count176
+\bbl@dirlevel=\count177
 
-(/usr/share/texmf-dist/tex/generic/babel-german/ngerman.ldf
-Language: ngerman 2018/12/08 v2.11 German support for babel (post-1996 orthogra
+(c:/texlive/2020/texmf-dist/tex/generic/babel-german/ngerman.ldf
+Language: ngerman 2020/07/21 v2.12 German support for babel (post-1996 orthogra
 phy)
 
-(/usr/share/texmf-dist/tex/generic/babel-german/ngermanb.ldf
-Language: ngermanb 2018/12/08 v2.11 German support for babel (post-1996 orthogr
+(c:/texlive/2020/texmf-dist/tex/generic/babel-german/ngermanb.ldf
+Language: ngermanb 2020/07/21 v2.12 German support for babel (post-1996 orthogr
 aphy)
 Package babel Info: Making " an active character on input line 121.
 )))
-(/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+(c:/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks15
 \inpenc@posthook=\toks16
 )
-(/usr/share/texmf-dist/tex/latex/graphics/color.sty
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
 
-(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 
-(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+(c:/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/08/26 v1.2 Graphics/color driver for pdftex
 ))
-(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+(c:/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
 )
-(/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
+(c:/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
-(/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+(c:/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
-\Gm@cnth=\count177
-\Gm@cntv=\count178
-\c@Gm@tempcnt=\count179
+\Gm@cnth=\count178
+\Gm@cntv=\count179
+\c@Gm@tempcnt=\count180
 \Gm@bindingoffset=\dimen136
 \Gm@wd@mp=\dimen137
 \Gm@odd@mp=\dimen138
@@ -88,10 +88,10 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 \Gm@layoutvoffset=\dimen143
 \Gm@dimlist=\toks18
 )
-(/usr/share/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(c:/texlive/2020/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+(c:/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks19
 \symAMSa=\mathgroup4
@@ -100,7 +100,7 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-(/usr/share/texmf-dist/tex/latex/amscls/amsthm.sty
+(c:/texlive/2020/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
 \thm@style=\toks20
 \thm@bodyfont=\toks21
@@ -112,16 +112,16 @@ Package: amsthm 2020/05/29 v2.20.6
 \thm@headsep=\skip51
 \dth@everypar=\toks25
 )
-(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 105.
@@ -129,12 +129,14 @@ Package graphics Info: Driver file: pdftex.def on input line 105.
 \Gin@req@height=\dimen144
 \Gin@req@width=\dimen145
 )
-(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-File: l3backend-pdfmode.def 2020-06-03 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count180
+(c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2020-09-11 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count181
 \l__pdf_internal_box=\box45
 )
 (./bib-now-dokumentation.aux)
+\openout1 = `bib-now-dokumentation.aux'.
+
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
@@ -150,25 +152,25 @@ LaTeX Font Info:    ... okay on input line 11.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
 
-(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(c:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count181
+\scratchcounter=\count182
 \scratchdimen=\dimen146
 \scratchbox=\box46
-\nofMPsegments=\count182
-\nofMParguments=\count183
+\nofMPsegments=\count183
+\nofMParguments=\count184
 \everyMPshowfont=\toks26
-\MPscratchCnt=\count184
+\MPscratchCnt=\count185
 \MPscratchDim=\dimen147
-\MPnumerator=\count185
-\makeMPintoPDFobject=\count186
+\MPnumerator=\count186
+\makeMPintoPDFobject=\count187
 \everyMPtoPDFconversion=\toks27
-) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+) (c:/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(c:/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
@@ -206,48 +208,54 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<images/arc42-logo.png, id=1, 192.72pt x 96.36pt>
-File: images/arc42-logo.png Graphic file (type png)
-<use images/arc42-logo.png>
-Package pdftex.def Info: images/arc42-logo.png  used on input line 14.
-(pdftex.def)             Requested size: 145.11053pt x 72.55504pt.
+<images/bibnow-logo-monotone.png, id=1, 383.4325pt x 365.365pt>
+File: images/bibnow-logo-monotone.png Graphic file (type png)
+<use images/bibnow-logo-monotone.png>
+Package pdftex.def Info: images/bibnow-logo-monotone.png  used on input line 14
+.
+(pdftex.def)             Requested size: 145.11053pt x 138.27148pt.
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./images/arc42-logo.png>] 
-(./bib-now-dokumentation.toc
+{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./images/bibnow
+-logo-monotone.png>] (./bib-now-dokumentation.toc
 LaTeX Font Info:    Trying to load font information for U+msa on input line 6.
 
-(/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
+(c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 6.
 
-(/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
+(c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ))
 \tf@toc=\write3
+\openout3 = `bib-now-dokumentation.toc'.
+
  [1]
 (./bib-now-dokumentation.lof)
 \tf@lof=\write4
+\openout4 = `bib-now-dokumentation.lof'.
+
  [2]
-File: images/arc42-logo.png Graphic file (type png)
-<use images/arc42-logo.png>
-Package pdftex.def Info: images/arc42-logo.png  used on input line 37.
-(pdftex.def)             Requested size: 192.71951pt x 96.35974pt.
+File: images/bibnow-logo-monotone.png Graphic file (type png)
+<use images/bibnow-logo-monotone.png>
+Package pdftex.def Info: images/bibnow-logo-monotone.png  used on input line 37
+.
+(pdftex.def)             Requested size: 145.11053pt x 138.27148pt.
  [1] [1] [2]
 <Konzepte/bibnow_Sitemap.png, id=29, 708.84825pt x 459.51675pt>
 File: Konzepte/bibnow_Sitemap.png Graphic file (type png)
 <use Konzepte/bibnow_Sitemap.png>
 Package pdftex.def Info: Konzepte/bibnow_Sitemap.png  used on input line 95.
 (pdftex.def)             Requested size: 400.0pt x 259.2979pt.
- [3 <./Konzepte/bibnow_Sitemap.png>]
+ [3 <./konzepte/bibnow_Sitemap.png>]
 <Konzepte/bibnow_Navigationskonzept.png, id=34, 1101.11375pt x 1508.63625pt>
 File: Konzepte/bibnow_Navigationskonzept.png Graphic file (type png)
 <use Konzepte/bibnow_Navigationskonzept.png>
 Package pdftex.def Info: Konzepte/bibnow_Navigationskonzept.png  used on input 
 line 109.
 (pdftex.def)             Requested size: 400.0pt x 548.0349pt.
- [4 <./Konzepte/bibnow_Navigationskonzept.png>] [5]
+ [4 <./konzepte/bibnow_Navigationskonzept.png>] [5]
 <images/Schriftart_100.png, id=42, 263.48438pt x 57.21375pt>
 File: images/Schriftart_100.png Graphic file (type png)
 <use images/Schriftart_100.png>
@@ -292,20 +300,20 @@ n er-set-zen, wie an-de-re Foren-Oberthemen,
 
 [7] [8] (./bib-now-dokumentation.aux) ) 
 Here is how much of TeX's memory you used:
- 3183 strings out of 480478
- 44077 string characters out of 5905959
- 298912 words of memory out of 5000000
- 19169 multiletter control sequences out of 15000+600000
- 542993 words of font info for 64 fonts, out of 8000000 for 9000
+ 3215 strings out of 480876
+ 44947 string characters out of 5911487
+ 303782 words of memory out of 5000000
+ 18803 multiletter control sequences out of 15000+600000
+ 545743 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,6n,31p,800b,206s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf-dist/fonts/enc/dvips/c
-m-super/cm-super-ts1.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></
-usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf
--dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf-dist/fonts/ty
-pe1/public/cm-super/sfrm1200.pfb>
-Output written on bib-now-dokumentation.pdf (12 pages, 368350 bytes).
+ 36i,6n,33p,800b,220s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2020/texmf-dist/fonts/enc/dv
+ips/cm-super/cm-super-ts1.enc}<c:/texlive/2020/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmbx12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmcsc10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.p
+fb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><c:/te
+xlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on bib-now-dokumentation.pdf (12 pages, 410606 bytes).
 PDF statistics:
  78 PDF objects out of 1000 (max. 8388607)
  45 compressed objects within 1 object stream

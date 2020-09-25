@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.9.15)  25 SEP 2020 10:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.9.15)  25 SEP 2020 10:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -787,10 +787,6 @@ Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1212.
 Package rerunfilecheck Info: File `bibnow_Dokumentation_JawoonKim_CharlieWiegan
 d_PBT3H19.out' has not changed.
 (rerunfilecheck)             Checksum: 01BDA6B5312FD23331ADAC16CE3A1A0B;6797.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
  12235 strings out of 480876
