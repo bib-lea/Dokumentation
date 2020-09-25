@@ -1,0 +1,22 @@
+Art der Diagramme: /Flussdiagramm/Sitemap/allgemeine Struktur
+
+* Layouts (MediaObserver => Responsiv)
+	- LoginPage
+	- DashboardPage
+	- SettingsPage
+* Components
+	- LoginFormComponent (=> LoginPage)
+	- SignupFormComponent (=> LoginPage)
+	
+	- *Shared / TopNavComponent (=> DashboardPage, SettingsPage)
+	- *Shared / MobileTopComponent (=> DashboardPage, SettingsPage)
+
+	- ContentViewerComponent (=> DashboardPage)
+		- TopicNavComponent (=> ContentViewerComponent)
+		- CardWrapComponent (=> ContentViewerComponent)
+		- PostNavComponent (=> ContentViewerComponent)
+* Services
+	- CrudService
+		- Speicherung / Laden der Posts
+	- AuthService
+		- Authentifikation / Laden der User-Info
