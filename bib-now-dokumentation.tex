@@ -134,18 +134,23 @@ Font Weights: 100, 300, 700
 	Für Subtitel, gedämpfte Texte, etc
 
 \begin{figure}[hbt!]
-\centering
 \includegraphics{images/Schriftart_100.png}
-\caption[Schriftart 100]{\\Quelle: eigene Darstellung}
+\caption{Schriftart 100}
 \end{figure}
 \item
 	Für normale Texte, Standard-schriftart
 
+\begin{figure}[hbt!]
 \includegraphics{images/Schriftart_300.png}
+\caption{Schriftart 300}
+\end{figure}
 \item
 	Für Titel und Akzent(Betonung)
 
+\begin{figure}[hbt!]
 \includegraphics{images/Schriftart_700.png}
+\caption{Schriftart 700}
+\end{figure}
 \end{itemize}
 
 
@@ -201,7 +206,11 @@ Außerdem haben wir am Anfang der LEA einen Plan erstellt, wann welches Modul er
 Der Source-Code zum Ergebnis lässt sich unter folgendem Pfad finden: \\
 https://github.com/bib-lea/bib-now
 
-\subsection{Login Page}
+\subsection{Loginseite}
+
+Auf der Loginseite hat der Nutzer drei mögliche Ansichten zwischen denen er hin und her wechseln kann. Eine Auswahl zwischen Anmeldung und Registrierung in Form von Buttons, ein Registrierfoumlar und ein Anmeldeformular.
+
+Beim Abschicken des Registrierungsforumalar wird ein Nutzer in der Datenbank erzeugt. Beim Abschicken des Anmeldeformulars wird geprüft ob der Nutzer mit diesen Daten in der Datenbank hinterlegt ist. Ist das der Fall ändert sich der Authentifzierungsstatus und der Nutzer wird zur Dashboardseite weitergeleitet. Ist das nicht der Fall bleibt der Nutzer auf der Loginseite.
 
 \begin{figure}[hbt!]
 \centering
@@ -257,11 +266,15 @@ https://github.com/bib-lea/bib-now
 
 \subsection{Dashboard}
 
+Auf dem Dashboard ist eine Navigationsleiste, die ContentViewer Komponente und der Footer zu sehen. In der Navigationsleiste ist das Logo, eine Suchfunktion, die nach Schlüsselworten in den Titeln und Inhalten der Beiträge sucht, der Button um den Postdialog zu öffnen, ein Auslogg-Button, der den Nutzer wieder zur Einloggseite führt. Die ContentViewer Komponente zeigt oben eine Auswahl zwischen Fundbüro und Tutorium, um Posts der jeweiligen Kategorie anzuzeigen und unten eine Pagination um sich weitere Posts anzusehen. Die CardWrap Komponente im ContentViewer zeigt immer fünf Posts, wobei der aktive immer durch weiße Hervorhebung markiert ist. Zu dem hat der Nutzer die Möglichkeit den Post zu löschen, sofern er der Autor ist. Dies ist durch ein Mülleimer-Icon markiert.
+
 \begin{figure}[hbt!]
 \centering
 \includegraphics[]{abbildungen/Abbildung_ContentViewer.png}
 \caption[ContentViewer]{ContentViewer \\Quelle: eigene Darstellung}
 \end{figure}
+
+Betätigt der Nutzer den Posten-Button öffnet sich ein Formular in dem der Nutzer sich für ein Oberthema sowie Untertypen entscheiden kann. Zudem müssen Titel und Inhalt ausgefüllt sein, damit die Daten in die Datenbank geladen werden. Ist das nicht der Fall, wird der Nutzer dazu aufgefordert dies zu tun. Die Zugabe eines Bildes ist optional. Gibt der Nutzer kein Bild an, wird ein Demobild verwendet.
 
 \FloatBarrier
 
@@ -299,6 +312,9 @@ https://github.com/bib-lea/bib-now
 
 \subsection{Datenbank}
 
+Die Datenbank implementierung fand in Firebase statt. Dort haben wir zwei Sammlungen erstellt: eine für Posts und eine für die Userdaten. 
+Nachdem sich die Bildspeicherung in einer solchen RealTime Cloud Sammlung als problematisch herausstellte, haben wir sie in einen separaten StorageBucket in Firebase geladen und anschließend den Link zu dem jeweiligen Bild als string unter dem jeweiligen Post gespeichert. 
+
 \begin{figure}[!htb]
 \centering
 \includegraphics[width=400pt]{abbildungen/Abbildung_ERM.png}
@@ -309,22 +325,35 @@ https://github.com/bib-lea/bib-now
 
 \section{Fazit}
 
-\subsection{Einzelfazit}
-\textbf{Charlie Wiegand}
 
-Insgesamt halte ich die LEA für ein gelunges Projekt.
-
-
-\textbf{Jawoon Kim}
 
 \subsection{Mögliche Erweiterung}
 
 Insgesamt lässt sich das durch weitere Module oder Seiten ersetzen, wie andere Foren-Oberthemen, eine Stundenplanintegration über die ical- API oder 
 ein Messengersystem für die User.
-
+\newpage
 \section{Quellen}
 
-\section{Literaturverzeichnis}
+Wir haben folgende Seiten zur Hilfe genutzt:
+
+\begin{itemize}
+\item
+Angular Dokumentation \\
+https://angular.io/docs
+
+ \item 
+ Firebase Dokumentation \\
+https://firebase.google.com/docs
+
+\item
+Stackoverflow \\
+https://stackoverflow.com/
+
+\item
+Youtube \\
+https://www.youtube.com
+
+\end{itemize}
 
 
 \end{document}
