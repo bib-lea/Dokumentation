@@ -6,6 +6,7 @@
 \usepackage{amssymb}
 \usepackage{amsthm}
 \usepackage{graphicx}
+\usepackage[section]{placeins}
 \title{\includegraphics[width=0.3\textwidth]{images/bibnow-logo-monotone.png}}
 \author{Jawoon Kim, Charlie Wiegand}
 \begin{document}
@@ -94,8 +95,8 @@ Um das Minimum zu erreichen benötigen wir einen PC, einen Texteditor, npm, ein 
 
 \begin{figure}[hbt!]
  \centering
- \includegraphics[width=400pt]{Konzepte/bibnow_Sitemap.png}
- \caption[Sitemap-Konzept]{\\Quelle: eigene Darstellung}
+ \includegraphics[width=400pt]{abbildungen/Abbildung_Sitemap.png}
+ \caption[Sitemap-Konzept]{\\Sitemap Konzept Quelle: eigene Darstellung}
 \end{figure}
 
 
@@ -104,7 +105,7 @@ Um das Minimum zu erreichen benötigen wir einen PC, einen Texteditor, npm, ein 
 Bei bib-now handelt es sich um ein Schülerforum für das bib international College Paderborn. Die technische Umsetzung basiert auf  einer Single-Page-Webanwendung mit einer RealTime-Datenbank deren einzelnde Komponenten über einen Router verlinkt sind: Die Navigation besteht aus drei Komponenten: LoginPageComponent, DashboardPageComponent und der SettingsPageComponent. Jede dieser Komponenten besitzt ihre eigenen Backend-Komponenten. Die LoginPage greift auf die LoginFormComponent und SignUpFormComponent zurück. Die DashboardPageComponent greift auf  SideNavComponent, ForumComponent, PostComponent zurück. Außerdem könnnen hier später weitere Elemente ergänzt werden. SettingsPageComponent beinhaltet die SideNavComponent und SettingsFormComponent. 
 
 
-\pagebreak
+\FloatBarrier
 
 \subsection{Navigationskonzept}
 
@@ -112,8 +113,8 @@ Bei bib-now handelt es sich um ein Schülerforum für das bib international Coll
 
 \begin{figure}[hbt!]
 \centering
-\includegraphics [width=400pt]{Konzepte/bibnow_Navigationskonzept}
-\caption[Navigationskonzept]{Quelle: eigene Darstellung}
+\includegraphics [width=400pt]{abbildungen/Abbildung_Navigationskonzept.png}
+\caption[Navigationskonzept]{Navigationskonzept  Quelle: eigene Darstellung}
 \end{figure}
 
 
@@ -122,7 +123,7 @@ Bei bib-now handelt es sich um ein Schülerforum für das bib international Coll
 
 Beim Betreten der Seite wird der User zunächst aufgefordert sich einzuloggen. Sollte er sich noch nicht registriert haben hat er die Möglichkeit in das Registrierungsforumlar zu switchen und sich dort zu registrieren. War die Registrierung oder das einloggen erfolgreich, wird der User auf die DashboardPage weitergeleitet. Dort werden ihm Posts angezeigt und er hat die Möglichkeit über ein Formular einen eigenen Post zu verfassen. Außerdem kann er über das Navigationsmenu zu der SettingsPage zu wechseln. Seine aktuelle Position wird durch eine Farbveränderung am jeweiligen punkt in der Navigatonsleiste erkenntlich.
 
-\newpage
+\FloatBarrier
 \subsection{Gestaltungskonzept}
 
 Font: Montserrat (https://fonts.google.com/specimen/Montserrat)
@@ -132,7 +133,11 @@ Font Weights: 100, 300, 700
 \item
 	Für Subtitel, gedämpfte Texte, etc
 
+\begin{figure}[hbt!]
+\centering
 \includegraphics{images/Schriftart_100.png}
+\caption[Schriftart 100]{\\Quelle: eigene Darstellung}
+\end{figure}
 \item
 	Für normale Texte, Standard-schriftart
 
@@ -162,13 +167,13 @@ Hintergrund Beiträge:\#F8F6F6
 \caption[Farbenschema]{\\Quelle: eigene Darstellung}
 \end{figure}
 
-
+\FloatBarrier
 
 \subsection{Zielgruppendefinition}
 
 Aus den MUSS - und KANN-Zielen ergibt sich unsere Zielgruppe: alle Schüler und Mitarbeiter des bib international College Paderborn. 
 
-
+\newpage
 \section{Durchführung}
 
 \subsection{Allgemeine Beschreibung zur Durchführung}
@@ -188,20 +193,119 @@ Zu Beginn haben wir die Dateistruktur sowie den Ablauf abgesprochen. Wir haben u
 
 Außerdem haben wir am Anfang der LEA einen Plan erstellt, wann welches Modul erledigt sein soll. Da das jedoch ein sehr steifes Modell war und überhaupt nicht zu den flexiblen Problemen in der LEA gepasst hat, haben wir das Modell schussendlich nur als grobe Richtlinie gesehen und unsere Planung für den Tag an die gerade benötigten Aufgaben angepasst.
 
-
+\newpage
 \section{Ergebnis}
 
 \subsection{GitHub-Pfad}
 
-Der Source-Code zum Ergebnis lässt sich unter folgendem Pfad finden.
+Der Source-Code zum Ergebnis lässt sich unter folgendem Pfad finden: \\
+https://github.com/bib-lea/bib-now
 
 \subsection{Login Page}
 
+\begin{figure}[hbt!]
+\centering
+\includegraphics[width=400pt]{abbildungen/Abbildung_Authentifizierung_LoginPage.png}
+\caption[Srenshot Landing Page]{Landing Page \\Quelle: eigene Darstellung}
+\end{figure}
 
+\FloatBarrier
+
+\subsubsection{Desktop Ansicht}
+
+\begin{figure}[hbt!]
+\centering
+\includegraphics[width=400pt]{screenshots/Screenshot_Desktop1.png}
+\caption[Srenshot Landing Page]{Landing Page \\Quelle: eigene Darstellung}
+\end{figure}
+
+\begin{figure}[hbt!]
+\centering
+\includegraphics[width=400pt]{screenshots/Screenshot_Desktop2.png}
+\caption[Srenshot Sign Up]{Sign Up \\Quelle: eigene Darstellung}
+\end{figure}
+
+\begin{figure}[hbt!]
+\centering
+\includegraphics[width=400pt]{screenshots/Screenshot_Desktop3.png}
+\caption[Srenshot Sign In]{Screenshot SignIn \\Quelle: eigene Darstellung}
+\end{figure}
+
+\FloatBarrier
+
+\subsubsection{Mobile Ansicht}
+
+\begin{figure}[hbt!]
+\centering
+\includegraphics[width=150pt]{screenshots/Screenshot_Mobil1.png}
+\caption[Srenshot Landing Page]{Landing Page \\Quelle: eigene Darstellung}
+\end{figure}
+
+\begin{figure}[hbt!]
+\centering
+\includegraphics[width=150pt]{screenshots/Screenshot_Mobil2.png}
+\caption[Srenshot Sign Up]{Sign Up \\Quelle: eigene Darstellung}
+\end{figure}
+
+\begin{figure}[hbt!]
+\centering
+\includegraphics[width=150pt]{screenshots/Screenshot_Mobil3.png}
+\caption[Srenshot Sign In]{Screenshot SignIn \\Quelle: eigene Darstellung}
+\end{figure}
+
+\FloatBarrier
 
 \subsection{Dashboard}
 
-%TODO Ergebnis
+\begin{figure}[hbt!]
+\centering
+\includegraphics[]{abbildungen/Abbildung_ContentViewer.png}
+\caption[ContentViewer]{ContentViewer \\Quelle: eigene Darstellung}
+\end{figure}
+
+\FloatBarrier
+
+\subsubsection{Desktop Ansicht}
+
+\begin{figure}[hbt!]
+\centering
+\includegraphics[width=400pt]{screenshots/Screenshot_Desktop_Dashboard.png}
+\caption[Sreenshot Dashboard]{Screenshot Dashboard \\Quelle: eigene Darstellung}
+\end{figure}
+
+\begin{figure}[hbt!]
+\centering
+\includegraphics[width=400pt]{screenshots/Screenshot_Desktop_Posten.png}
+\caption[Sreenshot Postdialog]{Screenshot Postdialog\\Quelle: eigene Darstellung}
+\end{figure}
+
+\FloatBarrier
+
+\subsubsection{Mobile Ansicht}
+
+\begin{figure}[hbt!]
+\centering
+\includegraphics[width=150pt]{screenshots/Screenshot_Mobil_Dashboard.png}
+\caption[Sreenshot Dashboard]{Screenshot Dashboard \\Quelle: eigene Darstellung}
+\end{figure}
+
+\begin{figure}[hbt!]
+\centering
+\includegraphics[width=150pt]{screenshots/Screenshot_Mobil_Posten.png}
+\caption[Sreenshot Postdialog]{Screenshot Postdialog\\Quelle: eigene Darstellung}
+\end{figure}
+
+\FloatBarrier
+
+\subsection{Datenbank}
+
+\begin{figure}[!htb]
+\centering
+\includegraphics[width=400pt]{abbildungen/Abbildung_ERM.png}
+\caption[ERM]{Entity Realationship Modell \\Quelle: eigene Darstellung}
+\end{figure}
+
+\FloatBarrier
 
 \section{Fazit}
 
