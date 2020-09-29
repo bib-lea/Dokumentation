@@ -14,8 +14,10 @@
 \contentsline {subsubsection}{\numberline {4.2.2}Während des Projekts}{7}%
 \contentsline {section}{\numberline {5}Ergebnis}{7}%
 \contentsline {subsection}{\numberline {5.1}GitHub-Pfad}{7}%
-\contentsline {section}{\numberline {6}Fazit}{7}%
-\contentsline {subsection}{\numberline {6.1}Einzelfazit}{7}%
+\contentsline {subsection}{\numberline {5.2}Login Page}{8}%
+\contentsline {subsection}{\numberline {5.3}Dashboard}{8}%
+\contentsline {section}{\numberline {6}Fazit}{8}%
+\contentsline {subsection}{\numberline {6.1}Einzelfazit}{8}%
 \contentsline {subsection}{\numberline {6.2}Mögliche Erweiterung}{8}%
 \contentsline {section}{\numberline {7}Quellen}{8}%
 \contentsline {section}{\numberline {8}Literaturverzeichnis}{8}%
