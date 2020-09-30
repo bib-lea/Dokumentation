@@ -5,19 +5,22 @@
 \contentsline {section}{\numberline {3}Konzepte}{3}%
 \contentsline {subsection}{\numberline {3.1}Inhaltskonzept}{3}%
 \contentsline {subsection}{\numberline {3.2}Navigationskonzept}{4}%
-\contentsline {subsection}{\numberline {3.3}Gestaltungskonzept}{6}%
+\contentsline {subsection}{\numberline {3.3}Gestaltungskonzept}{5}%
 \contentsline {subsection}{\numberline {3.4}Zielgruppendefinition}{6}%
 \contentsline {section}{\numberline {4}Durchführung}{7}%
 \contentsline {subsection}{\numberline {4.1}Allgemeine Beschreibung zur Durchführung}{7}%
 \contentsline {subsection}{\numberline {4.2}Planung und Vorbereitung}{7}%
 \contentsline {subsubsection}{\numberline {4.2.1}Vor dem Projekt}{7}%
 \contentsline {subsubsection}{\numberline {4.2.2}Während des Projekts}{7}%
-\contentsline {section}{\numberline {5}Ergebnis}{7}%
-\contentsline {subsection}{\numberline {5.1}GitHub-Pfad}{7}%
-\contentsline {subsection}{\numberline {5.2}Login Page}{8}%
-\contentsline {subsection}{\numberline {5.3}Dashboard}{8}%
-\contentsline {section}{\numberline {6}Fazit}{8}%
-\contentsline {subsection}{\numberline {6.1}Einzelfazit}{8}%
-\contentsline {subsection}{\numberline {6.2}Mögliche Erweiterung}{8}%
-\contentsline {section}{\numberline {7}Quellen}{8}%
-\contentsline {section}{\numberline {8}Literaturverzeichnis}{8}%
+\contentsline {section}{\numberline {5}Ergebnis}{8}%
+\contentsline {subsection}{\numberline {5.1}GitHub-Pfad}{8}%
+\contentsline {subsection}{\numberline {5.2}Loginseite}{8}%
+\contentsline {subsubsection}{\numberline {5.2.1}Desktop Ansicht}{9}%
+\contentsline {subsubsection}{\numberline {5.2.2}Mobile Ansicht}{10}%
+\contentsline {subsection}{\numberline {5.3}Dashboard}{13}%
+\contentsline {subsubsection}{\numberline {5.3.1}Desktop Ansicht}{14}%
+\contentsline {subsubsection}{\numberline {5.3.2}Mobile Ansicht}{15}%
+\contentsline {subsection}{\numberline {5.4}Datenbank}{16}%
+\contentsline {section}{\numberline {6}Fazit}{17}%
+\contentsline {subsection}{\numberline {6.1}Mögliche Erweiterung}{17}%
+\contentsline {section}{\numberline {7}Quellen}{18}%

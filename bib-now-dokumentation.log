@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.9.17)  29 SEP 2020 21:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.9.17)  30 SEP 2020 11:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -129,26 +129,29 @@ Package graphics Info: Driver file: pdftex.def on input line 105.
 \Gin@req@height=\dimen144
 \Gin@req@width=\dimen145
 )
+(/usr/share/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
 (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-06-03 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count180
 \l__pdf_internal_box=\box45
 )
 (./bib-now-dokumentation.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
 
 (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -165,8 +168,38 @@ LaTeX Font Info:    ... okay on input line 11.
 \everyMPtoPDFconversion=\toks27
 ) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(/usr/share/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/usr/share/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(/usr/share/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+(/usr/share/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+
+(/usr/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(/usr/share/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-04 v0.32 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
 
 (/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
@@ -209,7 +242,7 @@ e
 <images/bibnow-logo-monotone.png, id=1, 383.4325pt x 365.365pt>
 File: images/bibnow-logo-monotone.png Graphic file (type png)
 <use images/bibnow-logo-monotone.png>
-Package pdftex.def Info: images/bibnow-logo-monotone.png  used on input line 14
+Package pdftex.def Info: images/bibnow-logo-monotone.png  used on input line 15
 .
 (pdftex.def)             Requested size: 145.11053pt x 138.27148pt.
 [1
@@ -233,84 +266,191 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
  [2]
 File: images/bibnow-logo-monotone.png Graphic file (type png)
 <use images/bibnow-logo-monotone.png>
-Package pdftex.def Info: images/bibnow-logo-monotone.png  used on input line 37
+Package pdftex.def Info: images/bibnow-logo-monotone.png  used on input line 38
 .
 (pdftex.def)             Requested size: 145.11053pt x 138.27148pt.
  [1] [1] [2]
-<Konzepte/bibnow_Sitemap.png, id=29, 708.84825pt x 459.51675pt>
-File: Konzepte/bibnow_Sitemap.png Graphic file (type png)
-<use Konzepte/bibnow_Sitemap.png>
-Package pdftex.def Info: Konzepte/bibnow_Sitemap.png  used on input line 97.
-(pdftex.def)             Requested size: 400.0pt x 259.2979pt.
- [3 <./Konzepte/bibnow_Sitemap.png>]
-<Konzepte/bibnow_Navigationskonzept.png, id=34, 1101.11375pt x 1508.63625pt>
-File: Konzepte/bibnow_Navigationskonzept.png Graphic file (type png)
-<use Konzepte/bibnow_Navigationskonzept.png>
-Package pdftex.def Info: Konzepte/bibnow_Navigationskonzept.png  used on input 
-line 115.
-(pdftex.def)             Requested size: 400.0pt x 548.0349pt.
- [4 <./Konzepte/bibnow_Navigationskonzept.png>] [5]
-<images/Schriftart_100.png, id=42, 263.48438pt x 57.21375pt>
+<abbildungen/Abbildung_Sitemap.png, id=29, 719.68875pt x 478.78876pt>
+File: abbildungen/Abbildung_Sitemap.png Graphic file (type png)
+<use abbildungen/Abbildung_Sitemap.png>
+Package pdftex.def Info: abbildungen/Abbildung_Sitemap.png  used on input line 
+98.
+(pdftex.def)             Requested size: 400.0pt x 266.1181pt.
+<abbildungen/Abbildung_Navigationskonzept.png, id=30, 498.36188pt x 569.87906pt
+>
+File: abbildungen/Abbildung_Navigationskonzept.png Graphic file (type png)
+<use abbildungen/Abbildung_Navigationskonzept.png>
+Package pdftex.def Info: abbildungen/Abbildung_Navigationskonzept.png  used on 
+input line 116.
+(pdftex.def)             Requested size: 400.0pt x 457.4169pt.
+ [3 <./abbildungen/Abbildung_Sitemap.png>] [4 <./abbildungen/Abbildung_Navigati
+onskonzept.png>]
+<images/Schriftart_100.png, id=38, 263.48438pt x 57.21375pt>
 File: images/Schriftart_100.png Graphic file (type png)
 <use images/Schriftart_100.png>
-Package pdftex.def Info: images/Schriftart_100.png  used on input line 135.
+Package pdftex.def Info: images/Schriftart_100.png  used on input line 137.
 (pdftex.def)             Requested size: 263.48372pt x 57.2136pt.
-<images/Schriftart_300.png, id=43, 263.48438pt x 54.9553pt>
+<images/Schriftart_300.png, id=39, 263.48438pt x 54.9553pt>
 File: images/Schriftart_300.png Graphic file (type png)
 <use images/Schriftart_300.png>
-Package pdftex.def Info: images/Schriftart_300.png  used on input line 139.
+Package pdftex.def Info: images/Schriftart_300.png  used on input line 144.
 (pdftex.def)             Requested size: 263.48372pt x 54.95515pt.
-<images/Schriftart_700.png, id=44, 263.48438pt x 53.44969pt>
+<images/Schriftart_700.png, id=40, 263.48438pt x 53.44969pt>
 File: images/Schriftart_700.png Graphic file (type png)
 <use images/Schriftart_700.png>
-Package pdftex.def Info: images/Schriftart_700.png  used on input line 143.
+Package pdftex.def Info: images/Schriftart_700.png  used on input line 151.
 (pdftex.def)             Requested size: 263.48372pt x 53.44954pt.
-<images/Schema_1.png, id=45, 930.47626pt x 230.36063pt>
+<images/Schema_1.png, id=41, 930.47626pt x 230.36063pt>
 File: images/Schema_1.png Graphic file (type png)
 <use images/Schema_1.png>
-Package pdftex.def Info: images/Schema_1.png  used on input line 161.
+Package pdftex.def Info: images/Schema_1.png  used on input line 171.
 (pdftex.def)             Requested size: 400.0pt x 99.02852pt.
- [6 <./images/Schriftart_100.PNG> <./images/Schriftart_300.PNG> <./images/Schri
-ftart_700.PNG> <./images/Schema_1.PNG>]
-Underfull \hbox (badness 10000) in paragraph at lines 182--184
+ [5 <./images/Schriftart_100.PNG> <./images/Schriftart_300.PNG> <./images/Schri
+ftart_700.PNG>]
+[6 <./images/Schema_1.PNG>]
+Underfull \hbox (badness 10000) in paragraph at lines 192--194
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 187--188
+Underfull \hbox (badness 10000) in paragraph at lines 197--198
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 187--188
+Underfull \hbox (badness 10000) in paragraph at lines 197--198
 
  []
 
 [7]
-Overfull \hbox (10.73543pt too wide) in paragraph at lines 218--220
+<abbildungen/Abbildung_Authentifizierung_LoginPage.png, id=55, 508.14844pt x 32
+2.20375pt>
+File: abbildungen/Abbildung_Authentifizierung_LoginPage.png Graphic file (type 
+png)
+<use abbildungen/Abbildung_Authentifizierung_LoginPage.png>
+Package pdftex.def Info: abbildungen/Abbildung_Authentifizierung_LoginPage.png 
+ used on input line 217.
+(pdftex.def)             Requested size: 400.0pt x 253.63846pt.
+ [8 <./abbildungen/Abbildung_Authentifizierung_LoginPage.png>]
+<screenshots/Screenshot_Desktop1.png, id=59, 1443.14156pt x 810.02625pt>
+File: screenshots/Screenshot_Desktop1.png Graphic file (type png)
+<use screenshots/Screenshot_Desktop1.png>
+Package pdftex.def Info: screenshots/Screenshot_Desktop1.png  used on input lin
+e 227.
+(pdftex.def)             Requested size: 400.0pt x 224.5192pt.
+<screenshots/Screenshot_Desktop2.png, id=60, 1443.14156pt x 810.02625pt>
+File: screenshots/Screenshot_Desktop2.png Graphic file (type png)
+<use screenshots/Screenshot_Desktop2.png>
+Package pdftex.def Info: screenshots/Screenshot_Desktop2.png  used on input lin
+e 233.
+(pdftex.def)             Requested size: 400.0pt x 224.5192pt.
+<screenshots/Screenshot_Desktop3.png, id=61, 1443.14156pt x 810.02625pt>
+File: screenshots/Screenshot_Desktop3.png Graphic file (type png)
+<use screenshots/Screenshot_Desktop3.png>
+Package pdftex.def Info: screenshots/Screenshot_Desktop3.png  used on input lin
+e 239.
+(pdftex.def)             Requested size: 400.0pt x 224.5192pt.
+ [9 <./screenshots/Screenshot_Desktop1.png (PNG copy)> <./screenshots/Screensho
+t_Desktop2.png (PNG copy)>]
+<screenshots/Screenshot_Mobil1.png, id=66, 280.04625pt x 608.2725pt>
+File: screenshots/Screenshot_Mobil1.png Graphic file (type png)
+<use screenshots/Screenshot_Mobil1.png>
+Package pdftex.def Info: screenshots/Screenshot_Mobil1.png  used on input line 
+251.
+(pdftex.def)             Requested size: 150.0pt x 325.81705pt.
+<screenshots/Screenshot_Mobil2.png, id=67, 280.04625pt x 608.2725pt>
+File: screenshots/Screenshot_Mobil2.png Graphic file (type png)
+<use screenshots/Screenshot_Mobil2.png>
+Package pdftex.def Info: screenshots/Screenshot_Mobil2.png  used on input line 
+257.
+(pdftex.def)             Requested size: 150.0pt x 325.81705pt.
+<screenshots/Screenshot_Mobil3.png, id=68, 280.04625pt x 608.2725pt>
+File: screenshots/Screenshot_Mobil3.png Graphic file (type png)
+<use screenshots/Screenshot_Mobil3.png>
+Package pdftex.def Info: screenshots/Screenshot_Mobil3.png  used on input line 
+263.
+(pdftex.def)             Requested size: 150.0pt x 325.81705pt.
+ [10 <./screenshots/Screenshot_Desktop3.png (PNG copy)> <./screenshots/Screensh
+ot_Mobil1.png (PNG copy)>] [11 <./screenshots/Screenshot_Mobil2.png (PNG copy)>
+] [12 <./screenshots/Screenshot_Mobil3.png (PNG copy)>]
+<abbildungen/Abbildung_ContentViewer.png, id=78, 482.2818pt x 324.2514pt>
+File: abbildungen/Abbildung_ContentViewer.png Graphic file (type png)
+<use abbildungen/Abbildung_ContentViewer.png>
+Package pdftex.def Info: abbildungen/Abbildung_ContentViewer.png  used on input
+ line 275.
+(pdftex.def)             Requested size: 482.28061pt x 324.25061pt.
+ [13
+
+ <./abbildungen/Abbildung_ContentViewer.png>]
+<screenshots/Screenshot_Desktop_Dashboard.png, id=83, 1440.13031pt x 810.02625p
+t>
+File: screenshots/Screenshot_Desktop_Dashboard.png Graphic file (type png)
+<use screenshots/Screenshot_Desktop_Dashboard.png>
+Package pdftex.def Info: screenshots/Screenshot_Desktop_Dashboard.png  used on 
+input line 288.
+(pdftex.def)             Requested size: 400.0pt x 224.97652pt.
+<screenshots/Screenshot_Desktop_Posten.png, id=84, 1440.13031pt x 810.02625pt>
+File: screenshots/Screenshot_Desktop_Posten.png Graphic file (type png)
+<use screenshots/Screenshot_Desktop_Posten.png>
+Package pdftex.def Info: screenshots/Screenshot_Desktop_Posten.png  used on inp
+ut line 294.
+(pdftex.def)             Requested size: 400.0pt x 224.97652pt.
+ [14 <./screenshots/Screenshot_Desktop_Dashboard.png (PNG copy)> <./screenshots
+/Screenshot_Desktop_Posten.png (PNG copy)>]
+<screenshots/Screenshot_Mobil_Dashboard.png, id=88, 298.11375pt x 810.02625pt>
+File: screenshots/Screenshot_Mobil_Dashboard.png Graphic file (type png)
+<use screenshots/Screenshot_Mobil_Dashboard.png>
+Package pdftex.def Info: screenshots/Screenshot_Mobil_Dashboard.png  used on in
+put line 304.
+(pdftex.def)             Requested size: 150.0pt x 407.57065pt.
+<screenshots/Screenshot_Mobil_Posten.png, id=89, 298.11375pt x 810.02625pt>
+File: screenshots/Screenshot_Mobil_Posten.png Graphic file (type png)
+<use screenshots/Screenshot_Mobil_Posten.png>
+Package pdftex.def Info: screenshots/Screenshot_Mobil_Posten.png  used on input
+ line 310.
+(pdftex.def)             Requested size: 150.0pt x 407.57065pt.
+ [15 <./screenshots/Screenshot_Mobil_Dashboard.png (PNG copy)>]
+<abbildungen/Abbildung_ERM.png, id=94, 1565.85pt x 602.25pt>
+File: abbildungen/Abbildung_ERM.png Graphic file (type png)
+<use abbildungen/Abbildung_ERM.png>
+Package pdftex.def Info: abbildungen/Abbildung_ERM.png  used on input line 323.
+
+(pdftex.def)             Requested size: 400.0pt x 153.8428pt.
+ [16 <./screenshots/Screenshot_Mobil_Posten.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 330--331
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+
+ []
+
+
+Overfull \hbox (10.73543pt too wide) in paragraph at lines 338--340
 \OT1/cmr/m/n/12 Insgesamt l[]asst sich das durch wei-te-re Mo-du-le oder Sei-te
 n er-set-zen, wie an-de-re Foren-Oberthemen,
  []
 
-[8] (./bib-now-dokumentation.aux) ) 
+[17 <./abbildungen/Abbildung_ERM.png>] [18] (./bib-now-dokumentation.aux) ) 
 Here is how much of TeX's memory you used:
- 3183 strings out of 480478
- 44137 string characters out of 5905959
- 298934 words of memory out of 5000000
- 19169 multiletter control sequences out of 15000+600000
+ 3701 strings out of 480478
+ 54723 string characters out of 5905959
+ 308561 words of memory out of 5000000
+ 19641 multiletter control sequences out of 15000+600000
  542993 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,6n,31p,800b,233s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf-dist/fonts/enc/dvips/cm-su
-per/cm-super-ts1.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx
-12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/
-share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf-dist/fonts/type1/
-public/cm-super/sfrm1200.pfb>
-Output written on bib-now-dokumentation.pdf (12 pages, 411402 bytes).
+ 34i,6n,31p,826b,271s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/us
+r/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12
+.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on bib-now-dokumentation.pdf (22 pages, 2434175 bytes).
 PDF statistics:
- 78 PDF objects out of 1000 (max. 8388607)
- 45 compressed objects within 1 object stream
+ 124 PDF objects out of 1000 (max. 8388607)
+ 67 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
 
